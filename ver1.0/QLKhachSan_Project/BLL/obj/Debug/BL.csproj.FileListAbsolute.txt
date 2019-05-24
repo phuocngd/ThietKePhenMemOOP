@@ -1,0 +1,11 @@
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\bin\Debug\BLL.dll
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\bin\Debug\BLL.pdb
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\bin\Debug\DAL.dll
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\bin\Debug\DTO.dll
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\bin\Debug\DAL.pdb
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\bin\Debug\DTO.pdb
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\obj\Debug\BLL.dll
+C:\Users\JackieLeIV\source\repos\QLKhachSan_Project\BLL\obj\Debug\BLL.pdb
